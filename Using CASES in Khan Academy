@@ -28,4 +28,4 @@ FROM student_grades
 GROUP BY letter_grade;
 
 
--- USING CASES IS KHAN ACADEMY
+-- USING CASES In KHAN ACADEMY
